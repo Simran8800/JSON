@@ -1,0 +1,21 @@
+{
+     "k": {
+          "name": "neelam",
+          "designation": "programer",
+          "age": "24",
+          "salary": "2400"
+     },
+     "m": {
+          "name": "komal",
+          "designation": "trainer",
+          "age": "24",
+          "salary": "20000"
+     },
+     "n": {
+          "name": "anuradha",
+          "designation": "HR",
+          "age": "25",
+          "salary": "40000"
+     },
+     "d": {}
+}
